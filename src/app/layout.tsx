@@ -39,11 +39,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Muhammad Zeeshan - Sr. Android Developer Portfolio",
     description: "Explore my projects, skills, and experience in the MERN stack, Next.js, and API integration.",
-    url: "https://shahbaz-resume.vercel.app",
+    url: "https://muhammad-zeeshan-android-developer.vercel.app/",
     siteName: "Muhammad Zeeshan Portfolio",
     images: [
       {
-        url: "https://shahbaz-resume.vercel.app/m.png", // Using your m.png as the social image
+        url: "https://muhammad-zeeshan-android-developer.vercel.app/m.png", // Using your m.png as the social image
         width: 192,  // Assuming this is the size of your avatar
         height: 192,
         alt: "Muhammad Zeeshan's Portfolio",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     card: "summary", // Using "summary" because your image is square, not a large rectangle
     title: "Muhammad Zeeshan - Sr. Android Developer Portfolio",
     description: "Explore my projects and skills in modern web development.",
-    images: ["https://shahbaz-resume.vercel.app/m.png"], // Same image
+    images: ["https://muhammad-zeeshan-android-developer.vercel.app/m.png"], // Same image
   },
   
   // --- For Search Engine Bots ---
